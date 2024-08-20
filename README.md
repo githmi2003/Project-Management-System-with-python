@@ -46,3 +46,6 @@ This project management system allows users to add, delete, update, view, and ma
 
 8. **Visualizing:**
    - Select "Visualizing" to see a textual representation of the top three projects.
+
+## Dependencies 
+- No dependencies
